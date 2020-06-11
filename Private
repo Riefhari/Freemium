@@ -134,7 +134,7 @@ https://delivery.macan.live/stream/foxfamilymovies_idn/playlist.m3u8?token=CLK6e
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/c5/29/pZSnfNbm_t.jpg" group-title="MOVIES",FOX Action Movies
 https://delivery.macan.live/stream/id_foxactionmovies/index.m3u8?token=CLK6e&v=20200308 
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="MOVIES",HBO HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="MOVIES",HBO
 https://delivery.macan.live/stream/hbo/index.m3u8?token=CLK6e&v=20200308 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_hits.png" group-title="MOVIES",HBO HITS
@@ -365,9 +365,6 @@ https://delivery.macan.live/stream/duniaanak/playlist.m3u8?token=CLK6e&v=2020030
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_toon_ae_indonesia.png" group-title="KIDS",Spacetoon
 http://tvku.live:8888/live/43sxs8twu/252886/3603.ts
 
-#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/c7/7c/d55wlUeQ_t.png" group-title="KIDS",Spacetoon Plus
-https://cdnmdc2.useetv.com/joss/14/spacetoonplus/chunklist_w659961372_b684100_sleng_177560.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_cbeebies_uk.png" group-title="KIDS",CBeebies
 https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 
@@ -461,8 +458,8 @@ http://streamidvo.multitvsolution.in/live/DiscoverScienceEng-a/p4.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_turbo_us.png" group-title="KNOWLEDGE",Discovery Turbo
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tech-storm-sg.png" group-title="KNOWLEDGE",TECHSTORM
-https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(f4802587-5d0c-4181-a873-bf9de86cecf6)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tech-storm-sg.png" group-title="KNOWLEDGE",TechStorm
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(f4802587-5d0c-4181-a873-bf9de86cecf6)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/USEEPHOTO.png" group-title="KNOWLEDGE",Usee Photo
 https://cdnmdc2.useetv.com/joss/15/useephoto/chunklist_w1776134862_b1344100_sleng_177560.m3u8
@@ -872,7 +869,7 @@ http://cdnak10.cast4u.info/channels/4/10804.m3u8
 https://cdnmdc2.useetv.com/joss/15/golfplus/chunklist_w2049375849_b1344100_sleng_177560.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mola-sports-free-id.png" group-title="SPORTS",Mola Sports Free
-https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/index.m3u8
+https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/05.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trace_fr_sport_stars.png" group-title="SPORTS",Trace Sports Stars
 https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/6/prog_index.m3u8
