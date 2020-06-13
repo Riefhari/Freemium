@@ -696,7 +696,7 @@ http://119.235.249.58:1935/surautv/live/chunklist_w565930947.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/ww/wesal_tv_id.png" group-title="TV ISLAM",WESAL TV
 http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w1050078582.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.lyngsat.com/logo/tv/rr/rodja_tv.png" group-title="TV ISLAM",RODJA TV
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rodja_tv.png" group-title="TV ISLAM",RODJA TV
 http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv9_surabaya_id.png" group-title="TV ISLAM",TV9 Nusantara
