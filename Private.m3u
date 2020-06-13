@@ -122,29 +122,56 @@ http://122.248.43.138:1935/ch17/myStream/live.m3u8
 
 ##### FILM #####
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_asia.png" group-title="MOVIES",FOX Movies
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_asia.png" group-title="MOVIES",FOX Movies FHD
 http://tvku.live:8888/43sxs8twu/252886/3640
 
-#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/fb/d2/lMYAXC1e_t.jpg" group-title="MOVIES",FOX Family Movies
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_asia.png" group-title="MOVIES",FOX Movies HD
+http://tvku.live:8888/43sxs8twu/252886/3639
+
+#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/fb/d2/lMYAXC1e_t.jpg" group-title="MOVIES",FOX Family Movies FHD
 http://tvku.live:8888/43sxs8twu/252886/3644
 
-#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/c5/29/pZSnfNbm_t.jpg" group-title="MOVIES",FOX Action Movies
+#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/fb/d2/lMYAXC1e_t.jpg" group-title="MOVIES",FOX Family Movies HD
+http://tvku.live:8888/43sxs8twu/252886/3643
+
+#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/fb/d2/lMYAXC1e_t.jpg" group-title="MOVIES",FOX Family Movies (IDN)
+http://tvku.live:8888/43sxs8twu/252886/14994
+
+#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/c5/29/pZSnfNbm_t.jpg" group-title="MOVIES",FOX Action Movies FHD
 http://tvku.live:8888/43sxs8twu/252886/1478
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="MOVIES",HBO
+#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/c5/29/pZSnfNbm_t.jpg" group-title="MOVIES",FOX Action Movies HD
+http://tvku.live:8888/43sxs8twu/252886/3641
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="MOVIES",HBO FHD
 http://tvku.live:8888/43sxs8twu/252886/1496 
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_hits.png" group-title="MOVIES",HBO HITS
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="MOVIES",HBO HD
+http://tvku.live:8888/43sxs8twu/252886/4828
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_hits.png" group-title="MOVIES",HBO HITS FHD
 http://tvku.live:8888/43sxs8twu/252886/11492
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_signature_asia.png" group-title="MOVIES",HBO Signature
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="MOVIES",HBO HITS HD
+http://tvku.live:8888/43sxs8twu/252886/4829
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_signature_asia.png" group-title="MOVIES",HBO Signature FHD
 http://tvku.live:8888/43sxs8twu/252886/1498 
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_family_asia.png" group-title="MOVIES",HBO Family
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_signature_asia.png" group-title="MOVIES",HBO Signature HD
+http://tvku.live:8888/43sxs8twu/252886/4831
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_family_asia.png" group-title="MOVIES",HBO Family FHD
 http://tvku.live:8888/43sxs8twu/252886/30184
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax_asia.png" group-title="MOVIES",Cinemax
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_family_asia.png" group-title="MOVIES",HBO Family HD
+http://tvku.live:8888/43sxs8twu/252886/4830
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax_asia.png" group-title="MOVIES",Cinemax FHD
 http://tvku.live:8888/43sxs8twu/252886/30185
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax_asia.png" group-title="MOVIES",Cinemax HD
+http://tvku.live:8888/43sxs8twu/252886/4833
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/red_by_hbo_us.png" group-title="MOVIES",Red By HBO
 http://tvku.live:8888/43sxs8twu/252886/4832
@@ -415,13 +442,13 @@ http://tvku.live:8888/43sxs8twu/252886/779
 http://tvku.live:8888/43sxs8twu/252886/385
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" group-title="KNOWLEDGE",National Geographic
-http://tvku.live:8888/43sxs8twu/252886/3621
+http://tvku.live:8888/43sxs8twu/252886/13690
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_wild_us.png" group-title="KNOWLEDGE",National Geographic Wild
-http://tvku.live:8888/43sxs8twu/252886/3620
+http://tvku.live:8888/43sxs8twu/252886/13717
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_people_asia.png" group-title="KNOWLEDGE",National Geographic People
-http://tvku.live:8888/43sxs8twu/252886/3619
+http://tvku.live:8888/43sxs8twu/252886/13718
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png" group-title="KNOWLEDGE",History
 http://tvku.live:8888/43sxs8twu/252886/8131
