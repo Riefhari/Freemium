@@ -5,7 +5,7 @@ https://dl.dropboxusercontent.com/s/7vn3sco02gvp5z7/intro.mp4?dl=0
 https://dl.dropboxusercontent.com/s/5ixlbuycc6481hp/indonesia%20intro%20file.mp4?dl=0
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/9iwghmf08fp93ct/ANTV.jpg?dl=0" group-title="BASIC TERRESTRIAL",ANTV (s-1)
-https://delivery.macan.live/stream/id_antv/index.m3u8?token=7MQzY&v=20200308
+https://delivery.macan.live/stream/id_antv/index.m3u8?token=TXhNb&v=20200308
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/9iwghmf08fp93ct/ANTV.jpg?dl=0" group-title="BASIC TERRESTRIAL",ANTV (s-2)
 https://vcdnjt.useetv.com/joss/15/antv/chunklist_w1259405067_b894100_sleng_44213.m3u8
 #http://id1.indostreamingtv.com/live/antv/index.m3u8
@@ -71,7 +71,7 @@ https://dl.dropboxusercontent.com/s/uorwybjkxb24w0e/trans7.m3u8?dl=0
 http://video.detik.com/trans7/smil:trans7.smil/chunklist_w140890010_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/54n586rjsx6vdwx/Tv-One.jpg?dl=0" group-title="BASIC TERRESTRIAL",Tv One (s-1)
-https://delivery.macan.live/stream/id_tvone/index.m3u8?token=7MQzY&v=20200308
+https://delivery.macan.live/stream/id_tvone/index.m3u8?token=TXhNb&v=20200308
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/54n586rjsx6vdwx/Tv-One.jpg?dl=0" group-title="BASIC TERRESTRIAL",Tv One (s-2)
 https://vcdnjt.useetv.com/joss/15/tvone/chunklist_w842404487_b894100_sleng_44213.m3u8
 
@@ -152,7 +152,7 @@ https://dl.dropboxusercontent.com/s/g09vfc1x3h5m9lh/daitv.m3u8?dl=0
 #EXTINF:-1 group-title="MORE INDONESIAN CHANNEL" tvg-logo="https://dl.dropboxusercontent.com/s/q51ituvu28ahvk9/Elshinta.jpg?dl=0",ELSHINTA
 http://210.210.155.35/qwr9ew/s/s10/01.m3u8
 #EXTINF:-1 group-title="MORE INDONESIAN CHANNEL" tvg-logo="https://dl.dropboxusercontent.com/s/vjngoglxb8co1c4/flik.png?dl=0",FLIK
-https://delivery.macan.live/stream/flik/index.m3u8?token=7MQzY&v=20200308
+https://delivery.macan.live/stream/flik/index.m3u8?token=TXhNb&v=20200308
 #EXTINF:-1 group-title="MORE INDONESIAN CHANNEL" tvg-logo="https://dl.dropboxusercontent.com/s/a3kdp3v5d50x30c/idku.png?dl=0",ID KU
 https://vcdnjt.useetv.com/joss/15/idku/chunklist_w1284016203_b894100_sleng_44213.m3u8
 #EXTINF:-1 group-title="MORE INDONESIAN CHANNEL" tvg-logo="https://macan.live/img/jaktv.png",JAKTV
@@ -219,9 +219,9 @@ https://vcdnjt.useetv.com/joss/15/cnninternational/chunklist_w481459113_b894100_
 #EXTINF:-1 group-title="OTHER CHANNEL" tvg-logo="https://dl.dropboxusercontent.com/s/cf1gpudmx3jfbm2/Dens%20play.jpg?dl=0",Dens Play
 http://210.210.155.35/x6bnqe/s/s101/live.m3u8
 #EXTINF:-1 group-title="OTHER CHANNEL" tvg-logo="https://macan.live/img/discoveryasia.png",Discovery Asia
-https://delivery.macan.live/stream/id_discoveryasia/index.m3u8?token=7MQzY&v=20200308
+https://delivery.macan.live/stream/id_discoveryasia/index.m3u8?token=TXhNb&v=20200308
 #EXTINF:-1 group-title="OTHER CHANNEL" tvg-logo="https://macan.live/img/discoverychannel.png",Discovery Channel
-https://delivery.macan.live/stream/id_discoverychannel/index.m3u8?token=7MQzY&v=20200308
+https://delivery.macan.live/stream/id_discoverychannel/index.m3u8?token=TXhNb&v=20200308
 #EXTINF:-1 group-title="OTHER CHANNEL" tvg-logo="https://dl.dropboxusercontent.com/s/mtllesvkx6ollh1/drama%20sangat.jpg?dl=0",DRAMA SANGAT
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
 #EXTINF:-1 group-title="OTHER CHANNEL" tvg-logo="https://vidiogen.000webhostapp.com/logo/dw-english-tv-stream-724fc3.jpg",DW English
@@ -235,9 +235,9 @@ https://production-premium-fashiontv-vidio.akamaized.net/fashion/_definst_/ftv_p
 #EXTINF:-1 group-title="OTHER CHANNEL" tvg-logo="https://dl.dropboxusercontent.com/s/6qjefilqkb2yu7r/history_channel_logo.jpg?dl=0",History Channel
 https://vcdnjt.useetv.com/joss/15/history/chunklist_w451542495_b894100_sleng_44123.m3u8
 #EXTINF:-1 group-title="OTHER CHANNEL" tvg-logo="https://macan.live/img/kplus.png",K+
-https://delivery.macan.live/stream/kplus/playlist.m3u8?token=7MQzY&v=20200308
+https://delivery.macan.live/stream/kplus/playlist.m3u8?token=TXhNb&v=20200308
 #EXTINF:-1 group-title="OTHER CHANNEL" tvg-logo="https://macan.live/img/kbs_world.png",KBS World
-https://delivery.macan.live/stream/kbs_world/index.m3u8?token=7MQzY&v=20200308
+https://delivery.macan.live/stream/kbs_world/index.m3u8?token=TXhNb&v=20200308
 #EXTINF:-1 group-title="OTHER CHANNEL" tvg-logo="https://dl.dropboxusercontent.com/s/ar18hskbvdq1fzq/k%20drama.jpg?dl=0",K-Drama
 http://210.210.155.35/qwr9ew/s/s42/index.m3u8
 #EXTINF:-1 group-title="OTHER CHANNEL" tvg-logo="https://vidiogen.000webhostapp.com/logo/love-nature-29f1c8.png",Love Nature
@@ -245,11 +245,11 @@ https://dl.dropboxusercontent.com/s/qpsxjgnofxqavkz/LOVE.m3u8?dl=0
 #EXTINF:-1 group-title="OTHER CHANNEL" tvg-logo="https://dl.dropboxusercontent.com/s/bzbpgy8y6f11w51/m%20tv.jpg?dl=0",M-TV
 https://vcdnjt.useetv.com/joss/15/mtvlive/chunklist_w353968768_b894100_sleng_44123.m3u8
 #EXTINF:-1 group-title="OTHER CHANNEL" tvg-logo="https://macan.live/img/natgeopeople.png",Nat Geo People
-https://delivery.macan.live/stream/id_netgeopeople/index.m3u8?token=7MQzY&v=20200308
+https://delivery.macan.live/stream/id_netgeopeople/index.m3u8?token=TXhNb&v=20200308
 #EXTINF:-1 group-title="OTHER CHANNEL" tvg-logo="https://macan.live/img/natgeowild.png",Nat Geo Wild
-https://delivery.macan.live/stream/id_natgeowild/index.m3u8?token=7MQzY&v=20200308
+https://delivery.macan.live/stream/id_natgeowild/index.m3u8?token=TXhNb&v=20200308
 #EXTINF:-1 group-title="OTHER CHANNEL" tvg-logo="https://macan.live/img/ngc.png",National Geographic
-https://delivery.macan.live/stream/id_ngc/index.m3u8?token=7MQzY&v=20200308
+https://delivery.macan.live/stream/id_ngc/index.m3u8?token=TXhNb&v=20200308
 #EXTINF:-1 group-title="OTHER CHANNEL" tvg-logo="https://dl.dropboxusercontent.com/s/jop5suucqw9ym1t/nhkworld.png?dl=0",NHK World
 http://45.126.83.51/uq2663/h/h23/index.m3u8
 #EXTINF:-1 group-title="OTHER CHANNEL" tvg-logo="https://dl.dropboxusercontent.com/s/7kr1kv1bnddd55y/prambors.jpeg?dl=0",Prambors TV
@@ -259,42 +259,42 @@ https://rtb-channel.glue.live/smil:rtb1/chunklist_w1024390679_b2736000_sleng.m3u
 #EXTINF:-1 group-title="OTHER CHANNEL" tvg-logo="https://vidiogen.000webhostapp.com/logo/smithsonian-7073ec.png",Smith Sonian
 https://dl.dropboxusercontent.com/s/ramy8cry4vt2dwu/SMITH.m3u8?dl=0
 #EXTINF:-1 group-title="OTHER CHANNEL" tvg-logo="https://macan.live/img/gem.jpg",Sony GEM
-https://delivery.macan.live/stream/id_gem/index.m3u8?token=7MQzY&v=20200308
+https://delivery.macan.live/stream/id_gem/index.m3u8?token=TXhNb&v=20200308
 #EXTINF:-1 group-title="OTHER CHANNEL" tvg-logo="https://macan.live/img/sonyone.png",Sony One
-https://delivery.macan.live/stream/sonyone/index.m3u8?token=7MQzY&v=20200308
+https://delivery.macan.live/stream/sonyone/index.m3u8?token=TXhNb&v=20200308
 #EXTINF:-1 group-title="OTHER CHANNEL" tvg-logo="https://vidiogen.000webhostapp.com/logo/tvn-e11bc8.png",TVN
 https://dl.dropboxusercontent.com/s/5r7qg4rur2elhi7/TVN.m3u8?dl=0
 #EXTINF:-1 group-title="OTHER CHANNEL" tvg-logo="https://macan.live/img/wakuwaku.png",Waku Waku Japan
-https://delivery.macan.live/stream/wakuwaku/index.m3u8?token=7MQzY&v=20200308
+https://delivery.macan.live/stream/wakuwaku/index.m3u8?token=TXhNb&v=20200308
 #EXTINF:-1 group-title="OTHER CHANNEL" tvg-logo="https://macan.live/img/warnertv.png",Warner TV
-https://delivery.macan.live/stream/warnertv/index.m3u8?token=7MQzY&v=20200308
+https://delivery.macan.live/stream/warnertv/index.m3u8?token=TXhNb&v=20200308
 #EXTINF:-1 group-title="OTHER CHANNEL" tvg-logo="https://vidiogen.000webhostapp.com/logo/zee-bioskop-bdb0e4.png",Zee Bioskop
 https://dl.dropboxusercontent.com/s/b12s1ufuoiy8yfy/ZEEBIOS.m3u8?dl=0
 #EXTINF:-1 group-title="OTHER CHANNEL" tvg-logo="https://vidiogen.000webhostapp.com/logo/zing-74f73f.png",Zing
 https://dl.dropboxusercontent.com/s/8ph077eujbr23k2/ZIN.m3u8?dl=0
 
 #EXTINF:-1 group-title="MOVIES CHANNEL" tvg-logo="https://dl.dropboxusercontent.com/s/sgqs0i5npnki96e/AXN.jpg?dl=0",AXN
-https://delivery.macan.live/stream/id_axn/index.m3u8?token=7MQzY&v=20200308
+https://delivery.macan.live/stream/id_axn/index.m3u8?token=TXhNb&v=20200308
 #EXTINF:-1 group-title="MOVIES CHANNEL" tvg-logo="https://dl.dropboxusercontent.com/s/sxnsg6f693ahrf4/BAE.png?dl=0",Blue Ant Entertainment
-https://delivery.macan.live/stream/blue_ant_entertainment/index.m3u8?token=7MQzY&v=20200308
+https://delivery.macan.live/stream/blue_ant_entertainment/index.m3u8?token=TXhNb&v=20200308
 #EXTINF:-1 group-title="MOVIES CHANNEL" tvg-logo="https://dl.dropboxusercontent.com/s/yugc2sxno914d44/BAE2.png?dl=0",Blue Ant Extreme
-https://delivery.macan.live/stream/blue_ant_extreme/index.m3u8?token=7MQzY&v=20200308
+https://delivery.macan.live/stream/blue_ant_extreme/index.m3u8?token=TXhNb&v=20200308
 #EXTINF:-1 group-title="MOVIES CHANNEL" tvg-logo="https://macan.live/img/ccm.png",Celestial Classic Movies
-https://delivery.macan.live/stream/ccm/index.m3u8?token=7MQzY&v=20200308
+https://delivery.macan.live/stream/ccm/index.m3u8?token=TXhNb&v=20200308
 #EXTINF:-1 group-title="MOVIES CHANNEL" tvg-logo="https://macan.live/img/cm.jpg",Celestial Movies
-https://delivery.macan.live/stream/cm/index.m3u8?token=7MQzY&v=20200308
+https://delivery.macan.live/stream/cm/index.m3u8?token=TXhNb&v=20200308
 #EXTINF:-1 group-title="MOVIES CHANNEL" tvg-logo="https://macan.live/img/hits.png",HITS
-https://delivery.macan.live/stream/hits/index.m3u8?token=7MQzY&v=20200308
+https://delivery.macan.live/stream/hits/index.m3u8?token=TXhNb&v=20200308
 #EXTINF:-1 group-title="MOVIES CHANNEL" tvg-logo="https://macan.live/img/hits_movies.png",HITS Movies
-https://delivery.macan.live/stream/hits_movies/index.m3u8?token=7MQzY&v=20200308
+https://delivery.macan.live/stream/hits_movies/index.m3u8?token=TXhNb&v=20200308
 #EXTINF:-1 group-title="MOVIES CHANNEL" tvg-logo="https://macan.live/img/kix.png",KIX
-https://delivery.macan.live/stream/kix/index.m3u8?token=7MQzY&v=20200308
+https://delivery.macan.live/stream/kix/index.m3u8?token=TXhNb&v=20200308
 #EXTINF:-1 group-title="MOVIES CHANNEL" tvg-logo="https://macan.live/img/star_chinese_movies.png",Star Chinese Movies
-https://delivery.macan.live/stream/id_scm/index.m3u8?token=7MQzY&v=20200308
+https://delivery.macan.live/stream/id_scm/index.m3u8?token=TXhNb&v=20200308
 #EXTINF:-1 group-title="MOVIES CHANNEL" tvg-logo="https://macan.live/img/scmlegend.jpeg",Star Chinese Movies Legend
-https://delivery.macan.live/stream/scmlegend/index.m3u8?token=7MQzY&v=20200308
+https://delivery.macan.live/stream/scmlegend/index.m3u8?token=TXhNb&v=20200308
 #EXTINF:-1 group-title="MOVIES CHANNEL" tvg-logo="https://dl.dropboxusercontent.com/s/16h2umuy2iguf1e/Thrill_logo.jpg?dl=0",Thrill
-https://delivery.macan.live/stream/thrill/playlist.m3u8?token=7MQzY&v=20200308
+https://delivery.macan.live/stream/thrill/playlist.m3u8?token=TXhNb&v=20200308
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/pbo6tlkzjscyuyu/galaxy.jpg?dl=0" group-title="MOVIES SPESIAL CHANNEL",Galaxy
 https://vcdnjt.useetv.com/joss/15/galaxy/chunklist_w1284204465_b894100_sleng_44213.m3u8
@@ -302,9 +302,9 @@ https://vcdnjt.useetv.com/joss/15/galaxy/chunklist_w1284204465_b894100_sleng_442
 http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
 
 #EXTINF:-1 group-title="KIDS CHANNEL" tvg-logo="https://dl.dropboxusercontent.com/s/bfflm6ouesh7uck/animax.jpg?dl=0",Animax
-https://delivery.macan.live/stream/id_animax/index.m3u8?token=7MQzY&v=20200308
+https://delivery.macan.live/stream/id_animax/index.m3u8?token=TXhNb&v=20200308
 #EXTINF:-1 group-title="KIDS CHANNEL" tvg-logo="https://dl.dropboxusercontent.com/s/5znqggpri33om8u/aniplus.png?dl=0",Aniplus
-https://delivery.macan.live/stream/id_aniplus/playlist.m3u8?token=7MQzY&v=20200308
+https://delivery.macan.live/stream/id_aniplus/playlist.m3u8?token=TXhNb&v=20200308
 #EXTINF:-1 group-title="KIDS CHANNEL" tvg-logo="https://dl.dropboxusercontent.com/s/445xsuktzgqayxv/baby.jpg?dl=0",BABY TV
 https://vcdnjt.useetv.com/joss/14/babyfirst/chunklist_w1703371030_b684100_sleng_44213.m3u8
 #EXTINF:-1 group-title="KIDS CHANNEL" tvg-logo="https://dl.dropboxusercontent.com/s/2oeda9hj5cibmb4/boomerang.png?dl=0",Boomerang
@@ -353,16 +353,16 @@ https://vcdnjt.useetv.com/joss/15/useesport/chunklist_w86840522_b894100_sleng_44
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/45e8e78mve3f0hh/UseeSports-01.jpg?dl=0" group-title="SPORT CHANNEL",(-) Usee Sport 2
 https://vcdnjt.useetv.com/joss/15/useesports2/chunklist_w315556844_b894100_sleng_44213.m3u8
 #EXTINF:-1 tvg-ID="UseeSports.id" group-title="SPORT CHANNEL" tvg-logo="https://macan.live/img/useetv.png",(-) Usee Sport 1 (S)
-https://delivery.macan.live/stream/macan_sport_3/playlist.m3u8?token=7MQzY&v=20200308
+https://delivery.macan.live/stream/macan_sport_3/playlist.m3u8?token=TXhNb&v=20200308
 #EXTINF:-1 tvg-ID="UseeSports.id" group-title="SPORT CHANNEL" tvg-logo="https://macan.live/img/useetv.png",(-) Usee Sport 2 (S)
-https://delivery.macan.live/stream/macan_sport_4/playlist.m3u8?token=7MQzY&v=20200308
+https://delivery.macan.live/stream/macan_sport_4/playlist.m3u8?token=TXhNb&v=20200308
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/vuuqfuqq0eaedea/mola.jpg?dl=0" group-title="SPORT CHANNEL",Mola Free
 https://dl.dropboxusercontent.com/s/1sjhafkgtt4qude/MOLATV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/ivbn0pk0p5j69x5/bein.png?dl=0" group-title="SPORT CHANNEL",BeIN 1
-https://delivery.macan.live/stream/macan_sport_1/index.m3u8?token=7MQzY&v=20200308
+https://delivery.macan.live/stream/macan_sport_1/index.m3u8?token=TXhNb&v=20200308
 #https://dl.dropboxusercontent.com/s/fkmu2ttphiv84hu/BEIN1.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/ivbn0pk0p5j69x5/bein.png?dl=0" group-title="SPORT CHANNEL",BeIN 2
-https://delivery.macan.live/stream/macan_sport_2/index.m3u8?token=7MQzY&v=20200308
+https://delivery.macan.live/stream/macan_sport_2/index.m3u8?token=TXhNb&v=20200308
 #https://dl.dropboxusercontent.com/s/4aggxc4v73jtxtk/BEIN2.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://vidiogen.000webhostapp.com/logo/champions-tv-1-cd5af1.png" group-title="SPORT CHANNEL",Champion 1 Tv
 https://dl.dropboxusercontent.com/s/b09eiszudmpt68z/CHAMP1.m3u8?dl=0
@@ -375,11 +375,11 @@ http://163.172.179.78:8081/tv/eurosport-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/zkdgly7pwpjkqw8/euro.jpg?dl=0" group-title="SPORT CHANNEL",EUROSPORT 2
 http://163.172.179.78:8081/tv/eurosport-2/playlist.m3u8
 #EXTINF:-1 tvg-ID="FOXSportsHD.MACAN" group-title="SPORT CHANNEL" tvg-logo="https://macan.live/img/fox_sports_1.png", FOX Sport 1
-https://delivery.macan.live/stream/id_foxsport1/playlist.m3u8?token=7MQzY&v=20200308
+https://delivery.macan.live/stream/id_foxsport1/playlist.m3u8?token=TXhNb&v=20200308
 #EXTINF:-1 tvg-ID="FOXSports2.MACAN" group-title="SPORT CHANNEL" tvg-logo="https://macan.live/img/fox_sports_2.jpg", FOX Sport 2
-https://delivery.macan.live/stream/id_foxsport2/playlist.m3u8?token=7MQzY&v=20200308
+https://delivery.macan.live/stream/id_foxsport2/playlist.m3u8?token=TXhNb&v=20200308
 #EXTINF:-1 tvg-ID="FOXSports3.MACAN" group-title="SPORT CHANNEL" tvg-logo="https://macan.live/img/fox_sport_3.jpeg", FOX Sport 3
-https://delivery.macan.live/stream/id_foxsport3/playlist.m3u8?token=7MQzY&v=20200308
+https://delivery.macan.live/stream/id_foxsport3/playlist.m3u8?token=TXhNb&v=20200308
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/nhd78h9fq3kg37l/Fox%20sport.png?dl=0" group-title="SPORT CHANNEL",Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://vidiogen.000webhostapp.com/logo/nba-tv-646502.png" group-title="SPORT CHANNEL",NBA LIVE
@@ -440,17 +440,17 @@ https://dai3fd1oh325y.cloudfront.net/origin/live/main/SIG/index.m3u8?Policy=eyJT
 https://dai3fd1oh325y.cloudfront.net/origin/live/main/RED/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5MjIxODk0OH19fV19&Signature=FRfMOz6lHYvA~-cMJHz8ZeSzYSSFdd9khgvBQxqwkLw88ewnzcygPAsJtH5ElYB5sN1Zx3I9k1xIzHIItq1BFZApwDlgk8E8usUOzBAxtDqRoFntriMEcfJAMrsaEEgt-8su2~lM9L7mqN7Ebh2EvjK~zbwhk4JEBDtnfkayi0W0D3eGYQGfbO23hlqztqh8rnrtdnngtvjYGnkvp0idJdCK84eVxnbDp7Z6vZr7uLh9vZkcVAgZQXxwnsR4wK50vFs0bZLfj6vBF0RY1JkGj6SaL1Rs2A0IBSygWjN1WSwAogAjKukL7s6oMRrHVl8b1JV5POlwRkAwQJZ4Y9666Q__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 
 #EXTINF:-1 tvg-ID="FOX.id" group-title="MOVIES SPESIAL CHANNEL" tvg-logo="https://i.postimg.cc/7L5J5QdP/fox4.png",FOX
-https://delivery.macan.live/stream/id_fox/index.m3u8?token=7MQzY&v=20200308
+https://delivery.macan.live/stream/id_fox/index.m3u8?token=TXhNb&v=20200308
 #EXTINF:-1 tvg-ID="FOXActionMovies.id" group-title="MOVIES SPESIAL CHANNEL" tvg-logo="https://i.postimg.cc/T3qMZDy0/foxact4.png",FOX Action Movies
-https://delivery.macan.live/stream/id_foxactionmovies/index.m3u8?token=7MQzY&v=20200308
+https://delivery.macan.live/stream/id_foxactionmovies/index.m3u8?token=TXhNb&v=20200308
 #EXTINF:-1 tvg-ID="FOXCrime.id" group-title="MOVIES SPESIAL CHANNEL" tvg-logo="https://i.postimg.cc/fRhQ2Kbk/foxcr4.png",FOX Crime
-https://delivery.macan.live/stream/id_foxcrime/index.m3u8?token=7MQzY&v=20200308
+https://delivery.macan.live/stream/id_foxcrime/index.m3u8?token=TXhNb&v=20200308
 #EXTINF:-1 tvg-ID="FOXFamilyMovies.id" group-title="MOVIES SPESIAL CHANNEL" tvg-logo="https://i.postimg.cc/dQpYdvP2/foxFam4.png",FOX Family Movies
-https://delivery.macan.live/stream/id_foxfamilymovies/index.m3u8?token=7MQzY&v=20200308
+https://delivery.macan.live/stream/id_foxfamilymovies/index.m3u8?token=TXhNb&v=20200308
 #EXTINF:-1 tvg-ID="FoxLife.id" group-title="MOVIES SPESIAL CHANNEL" tvg-logo="https://i.postimg.cc/SNgSHk1j/FOXLIFE.png",FOX Life
-https://delivery.macan.live/stream/id_foxlife/index.m3u8?token=7MQzY&v=20200308
+https://delivery.macan.live/stream/id_foxlife/index.m3u8?token=TXhNb&v=20200308
 #EXTINF:-1 tvg-ID="FOXMoviesPremium.id" group-title="MOVIES SPESIAL CHANNEL" tvg-logo="https://i.postimg.cc/4NcTQMsr/foxM4.png",FOX Movies
-https://delivery.macan.live/stream/id_foxmoviespremium/index.m3u8?token=7MQzY&v=20200308
+https://delivery.macan.live/stream/id_foxmoviespremium/index.m3u8?token=TXhNb&v=20200308
 
 
 #EXTINF:-1 group-title="KIDS CHANNEL" tvg-logo="https://macan.live/img/disneychannel.png",Disney Channel ID (B)
