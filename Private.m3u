@@ -24,16 +24,16 @@ http://rr2.dens.tv/s/s07/01.m3u8
 http://210.210.155.35/qwr9ew/s/s105/01.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/nn/net_tv_id.png" group-title="LOKAL",NET TV
-https://cdnmdc2.useetv.com/joss/15/net/chunklist_w1087038075_b1344100_sleng_7874.m3u8
+https://delivery.macan.live/stream/id_nettv/index.m3u8?token=5VHiV
 
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_tv_id.png" group-title="LOKAL",Trans TV
-https://cdnmdc2.useetv.com/joss/15/transtv/chunklist_w185825643_b1344100_sleng_7752.m3u8
+https://delivery.macan.live/stream/id_transtv/index.m3u8?token=5VHiV
 
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_7_id.png" group-title="LOKAL",Trans 7
-https://cdnmdc2.useetv.com/joss/15/trans7/chunklist_w900210899_b1344100_sleng_7742.m3u8
+https://delivery.macan.live/stream/id_trans7/index.m3u8?token=5VHiV
 
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sctv_id.png" group-title="LOKAL",SCTV
-https://cdnmdc2.useetv.com/joss/15/sctv/chunklist_w709240244_b1344100_sleng_7702.m3u8
+https://delivery.macan.live/stream/id_sctv/index.m3u8?token=5VHiV
 
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ii/indosiar-id.png" group-title="LOKAL",Indosiar
 http://rr2.dens.tv/s/s04/01.m3u8
@@ -72,10 +72,10 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 https://delivery.macan.live/stream/idx/index.m3u8?token=5VHiV 
 
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/idku.png" group-title="LOKAL",idKU
-https://cdnmdc2.useetv.com/joss/15/idku/chunklist_w1837067233_b1344100_sleng_622044.m3u8
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(9c829723-9b34-49fd-bce4-53efa462576b)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/USEEPRIME.png" group-title="LOKAL",Usee Prime
-https://cdnmdc2.useetv.com/joss/15/useeprime/chunklist_w667374587_b894100_sleng_240916.m3u8
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(e7243cff-628b-45a9-8361-11bade1e6021)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mytv-id.png" group-title="LOKAL",myTV
 https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/skrz1j8exe/intv_576p/playlist.m3u8
@@ -105,7 +105,7 @@ http://202.169.224.76:1935/tv/jitv/chunklist_w759313912.m3u8
 http://rr2.dens.tv/s/s13/index.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bali_tv_id.png" group-title="LOKAL",Bali TV
-https://cdnmdc2.useetv.com/joss/14/balitv/chunklist_w1084697407_b684100_sleng_177560.m3u8
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(3473945a-c61b-4c44-bfe7-1e09499b9cf9)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.eljohn.tv/wp-content/uploads/2019/02/logo-terbaru-square-768x768.jpg" group-title="LOKAL",El John TV
 https://cdnmdc2.useetv.com/joss/14/eljohn/chunklist_w583600322_b944100_sleng_1088.m3u8
@@ -460,7 +460,7 @@ http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(f4802587-5d0c-4181-a873-bf9de86cecf6)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/USEEPHOTO.png" group-title="KNOWLEDGE",Usee Photo
-https://cdnmdc2.useetv.com/joss/15/useephoto/chunklist_w77674978_b1344100_sleng_621987.m3u8
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(28342aae-356c-46c1-b150-98ac3fb0fd5c)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cgtn_cn_documentary.png" group-title="KNOWLEDGE",CGTN Documentary
 http://210.210.155.35/qwr9ew/s/s20/01.m3u8
@@ -611,7 +611,7 @@ http://dai.google.com/linear/hls/event/q0dlRn_xSBGTZYI7vwWWJQ/master.m3u8
 https://tic.indonusa.net.id:8443/live/TIC.stream_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/ec/c0/UnXb8cVm_t.jpg" group-title="LIFESTYLE",Ruang Trampil
-https://cdnmdc2.useetv.com/joss/15/useeinfo/chunklist_w1494654389_b1344100_sleng_621964.m3u8
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(56a81d9a-f190-463b-9a01-42f85674e8bd)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/38/0a/bhG21tuy_t.jpg" group-title="LIFESTYLE",DigiOne MAXstream
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(83ea818f-6dcb-4d0e-bd5f-9873105639c0)/index.m3u8
