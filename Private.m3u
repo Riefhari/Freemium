@@ -51,7 +51,7 @@ http://210.210.155.35/qwr9ew/s/s104/01.m3u8
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CP8SmqR.png" group-title="LOKAL",Antara
-https://cdnmdc2.useetv.com/joss/14/antara/chunklist_w973456729_b684100_sleng_177560.m3u8
+https://cdnmdc2.useetv.com/joss/18/antara/chunklist_w973456729_b684100_sleng_177560.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita-satu-news-channel-id.png" group-title="LOKAL",Berita Satu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
@@ -96,7 +96,7 @@ http://210.210.155.35/x6bnqe/s/s90/S4/mnf.m3u8
 http://103.30.1.14:8080/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/jj/jak-tv-id.png" group-title="LOKAL",Jak TV
-https://cdnmdc2.useetv.com/joss/14/jaktv/chunklist_w498979167_b684100_sleng_177560.m3u8
+https://cdnmdc2.useetv.com/joss/18/jaktv/chunklist_w498979167_b684100_sleng_177560.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1027138427613896705/hXC6VdYi_400x400.jpg" group-title="LOKAL",JITV
 http://202.169.224.76:1935/tv/jitv/chunklist_w759313912.m3u8
@@ -105,10 +105,10 @@ http://202.169.224.76:1935/tv/jitv/chunklist_w759313912.m3u8
 http://rr2.dens.tv/s/s13/index.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bali_tv_id.png" group-title="LOKAL",Bali TV
-https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(3473945a-c61b-4c44-bfe7-1e09499b9cf9)/index.m3u8
+https://cdnmdc2.useetv.com/joss/18/balitv/chunklist_w1084697407_b684100_sleng_177560.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.eljohn.tv/wp-content/uploads/2019/02/logo-terbaru-square-768x768.jpg" group-title="LOKAL",El John TV
-https://cdnmdc2.useetv.com/joss/14/eljohn/chunklist_w583600322_b944100_sleng_1088.m3u8
+https://cdnmdc2.useetv.com/joss/18/eljohn/chunklist_w583600322_b944100_sleng_1088.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nPMUC1e.png" group-title="LOKAL",TEGARTV LAMPUNG
 http://wms2.klikhost.com:1935/tegartv/live/chunklist_w505057089.m3u8
@@ -189,10 +189,10 @@ https://cdnmdc2.useetv.com/joss/15/galaxy/chunklist_w1450850498_b894100_sleng_80
 https://delivery.macan.live/stream/galaxy_premium/playlist.m3u8?token=5VHiV
 
 #EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/bioskop_id.jpg" group-title="MOVIES",Bioskop Indonesia
-https://cdnmdc2.useetv.com/joss/14/bioskopindonesia/chunklist_w1569483238_b684100_sleng_177560.m3u8
+https://cdnmdc2.useetv.com/joss/18/bioskopindonesia/chunklist_w1569483238_b684100_sleng_177560.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/imc-id.png" group-title="MOVIES",IMC
-https://cdnmdc2.useetv.com/joss/14/imc/chunklist_w1486007674_b684100_sleng_177560.m3u8
+https://cdnmdc2.useetv.com/joss/18/imc/chunklist_w1486007674_b684100_sleng_177560.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-bioskop-in.png" group-title="MOVIES",Zee
 http://45.126.83.51/qwr9ew/s/s32/01.m3u8
@@ -331,19 +331,19 @@ https://delivery.macan.live/stream/zoomoo/index.m3u8?token=5VHiV
 https://delivery.macan.live/stream/cartoonnetwork/index.m3u8?token=5VHiV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Ducktv-logo.jpg" group-title="KIDS",DUCK TV
-https://cdnmdc2.useetv.com/joss/14/ducktv/chunklist_w1814096405_b684100_sleng_177560.m3u8
+https://cdnmdc2.useetv.com/joss/18/ducktv/chunklist_w1814096405_b684100_sleng_177560.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/bb/baby_tv_eu.png" group-title="KIDS",BabyTV
 https://delivery.macan.live/stream/babytv/index.m3u8?token=5VHiV
 
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/bb/babyfirst-tv-us.png" group-title="KIDS",Baby First
-https://cdnmdc2.useetv.com/joss/14/babyfirst/chunklist_w947029927_b684100_sleng_58518.m3u8
+https://cdnmdc2.useetv.com/joss/18/babyfirst/chunklist_w947029927_b684100_sleng_58518.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_39.jpg" group-title="KIDS",Boomerang
 https://delivery.macan.live/stream/boomerang/playlist.m3u8?token=5VHiV
 
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-vinci-de.png" group-title="KIDS",Da Vinci Kids
-https://cdnmdc2.useetv.com/joss/14/davinci/chunklist_w603619336_b684100_sleng_177560.m3u8
+https://cdnmdc2.useetv.com/joss/18/davinci/chunklist_w603619336_b684100_sleng_177560.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Kids/DreamWorks.png" group-title="KIDS",DREAMWORKS
 https://delivery.macan.live/stream/dreamworks/playlist.m3u8?token=5VHiV
@@ -355,7 +355,7 @@ http://210.210.155.35/dr9445/h/h02/01.m3u8
 https://delivery.macan.live/stream/id_animax/playlist.m3u8?token=5VHiV
 
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/hh/horee-id.png" group-title="KIDS",Horee!
-https://cdnmdc2.useetv.com/joss/14/horee/chunklist_w1829259596_b684100_sleng_177560.m3u8
+https://cdnmdc2.useetv.com/joss/18/horee/chunklist_w1829259596_b684100_sleng_177560.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/dd/dunia_anak_id.png" group-title="KIDS",Dunia Anak
 https://delivery.macan.live/stream/duniaanak/playlist.m3u8?token=5VHiV
@@ -553,7 +553,7 @@ https://delivery.macan.live/stream/citra_drama/index.m3u8?token=5VHiV
 https://delivery.macan.live/stream/citra_dangdut/index.m3u8?token=5VHiV
 
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/chinese-drama.jpg" group-title="ENTERTAINMENT",Chinese Drama
-https://cdnmdc2.useetv.com/joss/14/chinesedrama/chunklist_w1445438962_b684100_sleng_292.m3u8
+https://cdnmdc2.useetv.com/joss/18/chinesedrama/chunklist_w1445438962_b684100_sleng_292.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/citra-entertainment-id.png" group-title="ENTERTAINMENT",Citra Entertainment
 https://dl.dropboxusercontent.com/s/y31a2mupoxbadlr/citraENTERT.m3u8?dl=0
@@ -562,10 +562,10 @@ https://dl.dropboxusercontent.com/s/y31a2mupoxbadlr/citraENTERT.m3u8?dl=0
 http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/Insert.png" group-title="ENTERTAINMENT",Insert
-https://cdnmdc2.useetv.com/joss/14/insert/chunklist_w977669035_b684100_sleng_177560.m3u8
+https://cdnmdc2.useetv.com/joss/18/insert/chunklist_w977669035_b684100_sleng_177560.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dunia_lain_id.png" group-title="ENTERTAINMENT",Dunia Lain
-https://cdnmdc2.useetv.com/joss/14/dunialain/chunklist_w831999399_b684100_sleng_177560.m3u8
+https://cdnmdc2.useetv.com/joss/18/dunialain/chunklist_w831999399_b684100_sleng_177560.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-prima-my.png" group-title="ENTERTAINMENT",Astro Prima
 https://delivery.macan.live/stream/astro_prima/index.m3u8?token=5VHiV
@@ -620,7 +620,7 @@ https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(83ea818f-6dcb-4d0e-
 https://delivery.macan.live/stream/id_afc/index.m3u8?token=5VHiV
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eat_and_go_id.png" group-title="LIFESTYLE",Eat&Go
-https://cdnmdc2.useetv.com/joss/14/eatgo/chunklist_w132877268_b684100_sleng_177560.m3u8
+https://cdnmdc2.useetv.com/joss/18/eatgo/chunklist_w132877268_b684100_sleng_177560.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/First_Media_logo.svg/800px-First_Media_logo.svg.png" group-title="LIFESTYLE",First Lifestyle
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/chunklist_b2288000.m3u8
@@ -686,7 +686,7 @@ http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w1050078582.m3u8
 http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv9_surabaya_id.png" group-title="TV ISLAM",TV9 Nusantara
-https://cdnmdc2.useetv.com/joss/14/tv9/chunklist_w1823610374_b684100_sleng_177560.m3u8
+https://cdnmdc2.useetv.com/joss/18/tv9/chunklist_w1823610374_b684100_sleng_177560.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/salam_tv_id.png" group-title="TV ISLAM",SALAM TV
 http://wowza60.indostreamserver.com:1935/salamtv/live/chunklist_w284712012.m3u8
@@ -708,19 +708,19 @@ http://vs.suaraaliman.com:1935/aliman/HD/playlist.m3u8
 http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_w183011391.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Religion/Khazanah.png" group-title="TV ISLAM",Khazanah
-https://cdnmdc2.useetv.com/joss/14/khazanah/chunklist_w1269379135_b684100_sleng_177560.m3u8
+https://cdnmdc2.useetv.com/joss/18/khazanah/chunklist_w1269379135_b684100_sleng_177560.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/81/Logo_MQTV.png/800px-Logo_MQTV.png" group-title="TV ISLAM",MQTV
-https://cdnmdc2.useetv.com/joss/14/mqtv/chunklist_w1185145390_b684100_sleng_177560.m3u8
+https://cdnmdc2.useetv.com/joss/18/mqtv/chunklist_w1185145390_b684100_sleng_177560.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mta_tv_id.png" group-title="TV ISLAM",mta TV
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(041307e6-5f66-42cc-9215-37bab1980265)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv_mu_id.png" group-title="TV ISLAM",TV Mu
-https://cdnmdc2.useetv.com/joss/14/muhammadiyahtv/chunklist_w1526201683_b684100_sleng_177560.m3u8
+https://cdnmdc2.useetv.com/joss/18/muhammadiyahtv/chunklist_w1526201683_b684100_sleng_177560.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv_mui_id.png" group-title="TV ISLAM",MUI TV
-https://cdnmdc2.useetv.com/joss/14/muitv/chunklist_w1990524980_b684100_sleng_177560.m3u8
+https://cdnmdc2.useetv.com/joss/18/muitv/chunklist_w1990524980_b684100_sleng_177560.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tawaf-tv-id.png" group-title="TV ISLAM",Tawaf TV
 http://stream2.ninmedia.tv/tawaftv/rtmp.stream_360p/chunklist_w720255703.m3u8
@@ -739,7 +739,7 @@ https://delivery.macan.live/stream/astro_oasis/index.m3u8?token=5VHiV
 http://210.210.155.35/qwr9ew/s/s17/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arirang_kr.png" group-title="WORLD NEWS",Arirang
-https://cdnmdc2.useetv.com/joss/14/arirang/chunklist_w315593543_b684100_sleng_177560.m3u8
+https://cdnmdc2.useetv.com/joss/18/arirang/chunklist_w315593543_b684100_sleng_177560.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_world_news_uk.png" group-title="WORLD NEWS",BBC World News
 https://delivery.macan.live/stream/id_bbcworldnews/index.m3u8?token=5VHiV
@@ -1056,7 +1056,7 @@ https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(26cc3a6a-8726-40cd-
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/30/2d/4c3kvALd_t.jpg" group-title="MUSIC",PRAMBORS
-https://cdnmdc2.useetv.com/joss/14/pramborstv/chunklist_w76839492_b684100_sleng_177560.m3u8
+https://cdnmdc2.useetv.com/joss/18/pramborstv/chunklist_w76839492_b684100_sleng_177560.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nrj-hits-fr.png" group-title="MUSIC",NRJ Hits
 https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
