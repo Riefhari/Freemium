@@ -83,6 +83,9 @@ https://cdnmdc2.useetv.com/joss/18/eljohn/chunklist_w583600322_b944100_sleng_108
 
 ##### FILM #####
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-movies-hk.png" group-title="MOVIES",Celestial Movies
+https://cdnmdc2.useetv.com/joss/18/celestialmovie/chunklist_w954726482_b684100_sleng_177560.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema_world_asia.png" group-title="MOVIES",CinemaWorld
 https://cdnmdc2.useetv.com/joss/18/cinemaworld/chunklist_w357903244_b684100_sleng_1615.m3u8
 
