@@ -24,16 +24,16 @@ http://rr2.dens.tv/s/s07/01.m3u8
 http://210.210.155.35/qwr9ew/s/s105/01.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/nn/net_tv_id.png" group-title="LOKAL",NET TV
-https://delivery.macan.live/stream/id_nettv/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/id_nettv/index.m3u8?token=nOCZ7
 
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_tv_id.png" group-title="LOKAL",Trans TV
-https://delivery.macan.live/stream/id_transtv/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/id_transtv/index.m3u8?token=nOCZ7
 
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_7_id.png" group-title="LOKAL",Trans 7
-https://delivery.macan.live/stream/id_trans7/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/id_trans7/index.m3u8?token=nOCZ7
 
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sctv_id.png" group-title="LOKAL",SCTV
-https://delivery.macan.live/stream/id_sctv/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/id_sctv/index.m3u8?token=nOCZ7
 
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ii/indosiar-id.png" group-title="LOKAL",Indosiar
 http://rr2.dens.tv/s/s04/01.m3u8
@@ -69,7 +69,7 @@ http://36.89.47.217:11935/rrinet/live/index.m3u8
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/idx_channel_id.png" group-title="LOKAL",IDX
-https://delivery.macan.live/stream/idx/index.m3u8?token=TBdOq 
+https://delivery.macan.live/stream/idx/index.m3u8?token=nOCZ7 
 
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/5f/4c/c3wFHfag_t.png" group-title="LOKAL",idKU
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(9c829723-9b34-49fd-bce4-53efa462576b)/index.m3u8
@@ -123,52 +123,52 @@ http://122.248.43.138:1935/ch17/myStream/live.m3u8
 ##### FILM #####
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_asia.png" group-title="MOVIES",FOX Movies
-https://delivery.macan.live/stream/id_foxmoviespremium/index.m3u8?token=TBdOq 
+https://delivery.macan.live/stream/id_foxmoviespremium/index.m3u8?token=nOCZ7 
 
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/fb/d2/lMYAXC1e_t.jpg" group-title="MOVIES",FOX Family Movies
-https://delivery.macan.live/stream/id_foxfamilymovies/index.m3u8?token=TBdOq 
+https://delivery.macan.live/stream/id_foxfamilymovies/index.m3u8?token=nOCZ7 
 
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/fb/d2/lMYAXC1e_t.jpg" group-title="MOVIES",FOX Family Movies (IDN)
-https://delivery.macan.live/stream/foxfamilymovies_idn/playlist.m3u8?token=TBdOq
+https://delivery.macan.live/stream/foxfamilymovies_idn/playlist.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/c5/29/pZSnfNbm_t.jpg" group-title="MOVIES",FOX Action Movies
-https://delivery.macan.live/stream/id_foxactionmovies/index.m3u8?token=TBdOq 
+https://delivery.macan.live/stream/id_foxactionmovies/index.m3u8?token=nOCZ7 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="MOVIES",HBO
-https://delivery.macan.live/stream/hbo/index.m3u8?token=TBdOq 
+https://delivery.macan.live/stream/hbo/index.m3u8?token=nOCZ7 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_hits.png" group-title="MOVIES",HBO HITS
-https://delivery.macan.live/stream/hbo_hits/index.m3u8?token=TBdOq 
+https://delivery.macan.live/stream/hbo_hits/index.m3u8?token=nOCZ7 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_signature_asia.png" group-title="MOVIES",HBO Signature
-https://delivery.macan.live/stream/hbo_signature/index.m3u8?token=TBdOq 
+https://delivery.macan.live/stream/hbo_signature/index.m3u8?token=nOCZ7 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_family_asia.png" group-title="MOVIES",HBO Family
-https://delivery.macan.live/stream/hbo_family/index.m3u8?token=TBdOq 
+https://delivery.macan.live/stream/hbo_family/index.m3u8?token=nOCZ7 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax_asia.png" group-title="MOVIES",Cinemax
-https://delivery.macan.live/stream/cinemax/index.m3u8?token=TBdOq 
+https://delivery.macan.live/stream/cinemax/index.m3u8?token=nOCZ7 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/red_by_hbo_us.png" group-title="MOVIES",Red By HBO
-https://delivery.macan.live/stream/redhbo/index.m3u8?token=TBdOq 
+https://delivery.macan.live/stream/redhbo/index.m3u8?token=nOCZ7 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo-zone-us.png" group-title="MOVIES",HBO Zone
 http://live.highstream.club/live/HBOZone/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hits-movies-sg.png" group-title="MOVIES",HITS Movies
-https://delivery.macan.live/stream/hits_movies/index.m3u8?token=TBdOq 
+https://delivery.macan.live/stream/hits_movies/index.m3u8?token=nOCZ7 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_chinese_movies_se_asia.png" group-title="MOVIES",SCM
-https://delivery.macan.live/stream/id_scm/index.m3u8?token=TBdOq 
+https://delivery.macan.live/stream/id_scm/index.m3u8?token=nOCZ7 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_chinese_movies_legend.png" group-title="MOVIES",SCM Legend
-https://delivery.macan.live/stream/scmlegend/playlist.m3u8?token=TBdOq
+https://delivery.macan.live/stream/scmlegend/playlist.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-movies-hk.png" group-title="MOVIES",Celestial Movies
-https://delivery.macan.live/stream/cm/playlist.m3u8?token=TBdOq
+https://delivery.macan.live/stream/cm/playlist.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-classic-movies-hk.png" group-title="MOVIES",CCM
-https://delivery.macan.live/stream/ccm/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/ccm/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-cinema-id.png" group-title="MOVIES",MyCinema
 http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
@@ -177,16 +177,16 @@ http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
 http://210.210.155.35/uq2663/h/h04/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvnmovies.png" group-title="MOVIES",TVN MOVIES
-https://delivery.macan.live/stream/tvn_movies/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/tvn_movies/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Movies/Flik.png" group-title="MOVIES",FLIK
-https://delivery.macan.live/stream/flik/playlist.m3u8?token=TBdOq
+https://delivery.macan.live/stream/flik/playlist.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/galaxy_tv_id.png" group-title="MOVIES",GALAXY
 https://cdnmdc2.useetv.com/joss/15/galaxy/chunklist_w1450850498_b894100_sleng_8013.m3u8
 
 #EXTINF:-1 tvg-ID="GalaxyPremium.id" group-title="MOVIES" tvg-logo="https://macan.live/img/galaxy_premium.jpg", Galaxy Premium
-https://delivery.macan.live/stream/galaxy_premium/playlist.m3u8?token=TBdOq
+https://delivery.macan.live/stream/galaxy_premium/playlist.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/bioskop_id.jpg" group-title="MOVIES",Bioskop Indonesia
 https://cdnmdc2.useetv.com/joss/18/bioskopindonesia/chunklist_w1569483238_b684100_sleng_177560.m3u8
@@ -310,59 +310,59 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3
 ##### KIDS #####
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/DC_LGO_E_CYN_RGB_150x150.jpg" group-title="KIDS",Disney Channel
-https://delivery.macan.live/stream/id_disneychannel/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/id_disneychannel/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney_junior_us.png" group-title="KIDS",Disney Junior
-https://delivery.macan.live/stream/disneyjunior/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/disneyjunior/index.m3u8?token=nOCZ7
 
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney_xd_us.png" group-title="KIDS",Disney XD
-### https://delivery.macan.live/stream/disneyxd/index.m3u8?token=TBdOq ###
+### https://delivery.macan.live/stream/disneyxd/index.m3u8?token=nOCZ7 ###
 http://portal.geniptv.com:8080/live/ZrV8qKXnet/mc5XhtUeQ3/18597.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nickelodeon_us.png" group-title="KIDS",Nickelodeon
-https://delivery.macan.live/stream/nickelodeon/playlist.m3u8?token=TBdOq
+https://delivery.macan.live/stream/nickelodeon/playlist.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/nickjr.jpg" group-title="KIDS",Nickelodeon Jr
-https://delivery.macan.live/stream/nickjr/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/nickjr/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_ceria.png" group-title="KIDS",Astro Ceria
-https://delivery.macan.live/stream/astro_ceria/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/astro_ceria/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/zz/zoo_moo_global.png" group-title="KIDS",ZooMoo
-https://delivery.macan.live/stream/zoomoo/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/zoomoo/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png" group-title="KIDS",Cartoon Network
-https://delivery.macan.live/stream/cartoonnetwork/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/cartoonnetwork/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Ducktv-logo.jpg" group-title="KIDS",DUCK TV
 https://cdnmdc2.useetv.com/joss/18/ducktv/chunklist_w1814096405_b684100_sleng_177560.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/bb/baby_tv_eu.png" group-title="KIDS",BabyTV
-https://delivery.macan.live/stream/babytv/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/babytv/index.m3u8?token=nOCZ7
 
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/bb/babyfirst-tv-us.png" group-title="KIDS",Baby First
 https://cdnmdc2.useetv.com/joss/18/babyfirst/chunklist_w947029927_b684100_sleng_58518.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_39.jpg" group-title="KIDS",Boomerang
-https://delivery.macan.live/stream/boomerang/playlist.m3u8?token=TBdOq
+https://delivery.macan.live/stream/boomerang/playlist.m3u8?token=nOCZ7
 
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-vinci-de.png" group-title="KIDS",Da Vinci Kids
 https://cdnmdc2.useetv.com/joss/18/davinci/chunklist_w603619336_b684100_sleng_177560.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Kids/DreamWorks.png" group-title="KIDS",DREAMWORKS
-https://delivery.macan.live/stream/dreamworks/playlist.m3u8?token=TBdOq
+https://delivery.macan.live/stream/dreamworks/playlist.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3r6q1s0R/ANIPLUS.png" group-title="KIDS",ANIPLUS
 http://210.210.155.35/dr9445/h/h02/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/animax_asia.png" group-title="KIDS",Animax
-https://delivery.macan.live/stream/id_animax/playlist.m3u8?token=TBdOq
+https://delivery.macan.live/stream/id_animax/playlist.m3u8?token=nOCZ7
 
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/hh/horee-id.png" group-title="KIDS",Horee!
 https://cdnmdc2.useetv.com/joss/18/horee/chunklist_w1829259596_b684100_sleng_177560.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/dd/dunia_anak_id.png" group-title="KIDS",Dunia Anak
-https://delivery.macan.live/stream/duniaanak/playlist.m3u8?token=TBdOq
+https://delivery.macan.live/stream/duniaanak/playlist.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_toon_ae_indonesia.png" group-title="KIDS",Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
@@ -413,40 +413,40 @@ http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/01.m3u8
 ##### KNOWLEDGE #####
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.png" group-title="KNOWLEDGE",Animal Planet
-https://delivery.macan.live/stream/id_animalplanet/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/id_animalplanet/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" group-title="KNOWLEDGE",Discovery Channel
-https://delivery.macan.live/stream/id_discoverychannel/playlist.m3u8?token=TBdOq
+https://delivery.macan.live/stream/id_discoverychannel/playlist.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_asia_us.png" group-title="KNOWLEDGE",Discovery Asia
-https://delivery.macan.live/stream/id_discoveryasia/index.m3u8?token=TBdOq 
+https://delivery.macan.live/stream/id_discoveryasia/index.m3u8?token=nOCZ7 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_earth_uk.png" group-title="KNOWLEDGE",BBC Earth
-https://delivery.macan.live/stream/bbc_earth/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/bbc_earth/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" group-title="KNOWLEDGE",National Geographic
-https://delivery.macan.live/stream/id_ngc/playlist.m3u8?token=TBdOq
+https://delivery.macan.live/stream/id_ngc/playlist.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_wild_us.png" group-title="KNOWLEDGE",National Geographic Wild
-https://delivery.macan.live/stream/id_natgeowild/playlist.m3u8?token=TBdOq
+https://delivery.macan.live/stream/id_natgeowild/playlist.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_people_asia.png" group-title="KNOWLEDGE",National Geographic People
-https://delivery.macan.live/stream/id_netgeopeople/playlist.m3u8?token=TBdOq
+https://delivery.macan.live/stream/id_netgeopeople/playlist.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png" group-title="KNOWLEDGE",History
-https://delivery.macan.live/stream/history/playlist.m3u8?token=TBdOq
+https://delivery.macan.live/stream/history/playlist.m3u8?token=nOCZ7
  
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/crime_investigation_us.png" group-title="KNOWLEDGE",Crime Investigation
-https://delivery.macan.live/stream/crimeinvestigation/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/crimeinvestigation/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc_uk.png" group-title="KNOWLEDGE",TLC
-https://delivery.macan.live/stream/tlc/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/tlc/index.m3u8?token=nOCZ7
 
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/hh/hgtv_us.png" group-title="KNOWLEDGE",HGTV
-https://delivery.macan.live/stream/hgtv/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/hgtv/index.m3u8?token=nOCZ7
 
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="KNOWLEDGE",Love Nature
-https://delivery.macan.live/stream/love_nature/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/love_nature/index.m3u8?token=nOCZ7
 
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/ss/smithsonian-channel-us.png" group-title="KNOWLEDGE",Smithsonian
 https://dl.dropboxusercontent.com/s/ramy8cry4vt2dwu/SMITH.m3u8?dl=0
@@ -488,49 +488,49 @@ https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 ##### ENTERTAINMENT #####
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/one-in.png" group-title="ENTERTAINMENT",ONE Channel
-https://delivery.macan.live/stream/sonyone/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/sonyone/index.m3u8?token=nOCZ7
  
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-in.png" group-title="ENTERTAINMENT",GEM
-https://delivery.macan.live/stream/id_gem/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/id_gem/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/2000px-KIX_logo.svg.png" group-title="ENTERTAINMENT",KIX
-https://delivery.macan.live/stream/kix/playlist.m3u8?token=TBdOq
+https://delivery.macan.live/stream/kix/playlist.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/thrill_hk.png" group-title="ENTERTAINMENT",thrill
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_east_asia.png" group-title="ENTERTAINMENT",AXN
-https://delivery.macan.live/stream/id_axn/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/id_axn/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_global.png" group-title="ENTERTAINMENT",FOX
-https://delivery.macan.live/stream/id_fox/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/id_fox/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-life-us.png" group-title="ENTERTAINMENT",FOX Life
-https://delivery.macan.live/stream/id_foxlife/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/id_foxlife/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx_us.png" group-title="ENTERTAINMENT",FX
-https://delivery.macan.live/stream/id_fx/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/id_fx/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_crime_global.png" group-title="ENTERTAINMENT",FOXCrime
-https://delivery.macan.live/stream/id_foxcrime/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/id_foxcrime/index.m3u8?token=nOCZ7
 
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_tv_us.png" group-title="ENTERTAINMENT",WarnerTV
-https://delivery.macan.live/stream/warnertv/index.m3u8?token=TBdOq 
+https://delivery.macan.live/stream/warnertv/index.m3u8?token=nOCZ7 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hits_tv_sg.png" group-title="ENTERTAINMENT",HITS
-https://delivery.macan.live/stream/hits/playlist.m3u8?token=TBdOq
+https://delivery.macan.live/stream/hits/playlist.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/blue-ant-extreme-ca.png" group-title="ENTERTAINMENT",Blue Ant Extreme
-https://delivery.macan.live/stream/blue_ant_extreme/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/blue_ant_extreme/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/blue-ant-entertainment-ca.png" group-title="ENTERTAINMENT",Blue Ant Entertainment
-https://delivery.macan.live/stream/blue_ant_entertainment/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/blue_ant_entertainment/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/comedy_central_us.png" group-title="ENTERTAINMENT",Comedy Central
 https://edge01.iptv.digijadoo.net/live/diva/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvn-asia-kr.png" group-title="ENTERTAINMENT",TVN
-https://delivery.macan.live/stream/id_tvn/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/id_tvn/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/k_plus_kr.png" group-title="ENTERTAINMENT",K+
 http://210.210.155.35/uq2663/h/h08/01.m3u8
@@ -539,10 +539,10 @@ http://210.210.155.35/uq2663/h/h08/01.m3u8
 http://210.210.155.35/qwr9ew/s/s42/01.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/kk/kbs_world_kr.png" group-title="ENTERTAINMENT",KBS WORLD
-https://delivery.macan.live/stream/kbs_world/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/kbs_world/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/waku_waku_japan.png" group-title="ENTERTAINMENT",WakuWaku Japan
-https://delivery.macan.live/stream/wakuwaku/playlist.m3u8?token=TBdOq
+https://delivery.macan.live/stream/wakuwaku/playlist.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/citra-muslim-id.png" group-title="ENTERTAINMENT",Citra Muslim
 https://dl.dropboxusercontent.com/s/09pdj8akjurivim/citraMUS.m3u8?dl=0
@@ -551,10 +551,10 @@ https://dl.dropboxusercontent.com/s/09pdj8akjurivim/citraMUS.m3u8?dl=0
 https://dl.dropboxusercontent.com/s/ng6mlrdb3ivh4as/citraBIOS.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/83/50/9RxZGzM6_t.jpg" group-title="ENTERTAINMENT",Citra Drama
-https://delivery.macan.live/stream/citra_drama/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/citra_drama/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/citra-dangdut-id.png" group-title="ENTERTAINMENT",Citra Dangdut
-https://delivery.macan.live/stream/citra_dangdut/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/citra_dangdut/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/chinese-drama.jpg" group-title="ENTERTAINMENT",Chinese Drama
 https://cdnmdc2.useetv.com/joss/18/chinesedrama/chunklist_w1445438962_b684100_sleng_292.m3u8
@@ -572,13 +572,13 @@ https://cdnmdc2.useetv.com/joss/18/insert/chunklist_w977669035_b684100_sleng_177
 https://cdnmdc2.useetv.com/joss/18/dunialain/chunklist_w831999399_b684100_sleng_177560.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-prima-my.png" group-title="ENTERTAINMENT",Astro Prima
-https://delivery.macan.live/stream/astro_prima/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/astro_prima/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_ria.png" group-title="ENTERTAINMENT",Astro Ria
-https://delivery.macan.live/stream/astro_ria/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/astro_ria/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-warna-my.png" group-title="ENTERTAINMENT",Astro Warna
-https://delivery.macan.live/stream/astro_warna/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/astro_warna/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="http://www.lyngsat-stream.com/logo/tv/dd/drama-sangat-my.png" group-title="ENTERTAINMENT",Drama Sangat
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8 
@@ -621,7 +621,7 @@ https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(56a81d9a-f190-463b-
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(83ea818f-6dcb-4d0e-bd5f-9873105639c0)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_240.jpg" group-title="LIFESTYLE",Asian Food Channel 
-https://delivery.macan.live/stream/id_afc/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/id_afc/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eat_and_go_id.png" group-title="LIFESTYLE",Eat&Go
 https://cdnmdc2.useetv.com/joss/18/eatgo/chunklist_w132877268_b684100_sleng_177560.m3u8
@@ -639,10 +639,10 @@ http://210.210.155.35/uq2663/h/h01/01.m3u8
 http://5.135.92.133:52841/out/u/502_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/e9/26/LvCwqP4C_t.jpeg" group-title="LIFESTYLE",Lifetime
-https://delivery.macan.live/stream/lifetime/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/lifetime/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_lifestyle_uk.png" group-title="LIFESTYLE",BBC Lifestyle
-https://delivery.macan.live/stream/bbc_lifestyle/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/bbc_lifestyle/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fyi_us.png" group-title="LIFESTYLE",FYI
 https://edge01.iptv.digijadoo.net/live/fyi_hd/chunks.m3u8
@@ -657,7 +657,7 @@ https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 http://145.239.255.4:8080/en-E/mono.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fashion-one-asia-uk.png" group-title="LIFESTYLE",Fashion One
-https://delivery.macan.live/stream/fashionone/playlist.m3u8?token=TBdOq
+https://delivery.macan.live/stream/fashionone/playlist.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fashion_tv_fr.png" group-title="LIFESTYLE",Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
@@ -730,7 +730,7 @@ https://cdnmdc2.useetv.com/joss/18/muitv/chunklist_w1990524980_b684100_sleng_177
 http://stream2.ninmedia.tv/tawaftv/rtmp.stream_360p/chunklist_w720255703.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-oasis-my.png" group-title="TV ISLAM",Astro Oasis
-https://delivery.macan.live/stream/astro_oasis/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/astro_oasis/index.m3u8?token=nOCZ7
 
 
 
@@ -746,16 +746,16 @@ http://210.210.155.35/qwr9ew/s/s17/index.m3u8
 https://cdnmdc2.useetv.com/joss/18/arirang/chunklist_w315593543_b684100_sleng_177560.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_world_news_uk.png" group-title="WORLD NEWS",BBC World News
-https://delivery.macan.live/stream/id_bbcworldnews/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/id_bbcworldnews/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-international-us.png" group-title="WORLD NEWS",CNN International
-https://delivery.macan.live/stream/cnninternational/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/cnninternational/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://myrepublic.co.id/wp-content/uploads/2019/05/bloomberg-TV-Asia.jpg" group-title="WORLD NEWS",Bloomberg
-https://delivery.macan.live/stream/id_bloomberg/playlist.m3u8?token=TBdOq
+https://delivery.macan.live/stream/id_bloomberg/playlist.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cna-sg.png" group-title="WORLD NEWS",Channel News Asia
-https://delivery.macan.live/stream/id_cna/playlist.m3u8?token=TBdOq
+https://delivery.macan.live/stream/id_cna/playlist.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/deutsche_welle_tv_de.png" group-title="WORLD NEWS",DW
 http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
@@ -767,7 +767,7 @@ http://210.210.155.35/qwr9ew/s/s15/index1.m3u8
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nhk-world-japan-jp.png" group-title="WORLD NEWS",NHK World
-https://delivery.macan.live/stream/id_nhkworld/playlist.m3u8?token=TBdOq
+https://delivery.macan.live/stream/id_nhkworld/playlist.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nhk-world-premium-jp.png" group-title="WORLD NEWS",NHK World Premium
 https://cdnmdc2.useetv.com/joss/15/nhkpremium/chunklist_w123540726_b1344100_sleng_enc=FjUiToUzI4n4ys9_IOUjIw.m3u8
@@ -785,7 +785,7 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/AfricaNews.m3u
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rt_ru_america.png" group-title="WORLD NEWS",RT America
-https://delivery.macan.live/stream/russia_today/playlist.m3u8?token=TBdOq
+https://delivery.macan.live/stream/russia_today/playlist.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/telesur_ve.png" group-title="WORLD NEWS",TeleSUR
 https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8?fluxustv.m3u
@@ -817,79 +817,79 @@ http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/index_0720_av-b.m3u8
 http://210.210.155.35/qwr9ew/s/s107/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/beIN-1.jpg" group-title="SPORTS",beIN Sports 1
-https://delivery.macan.live/stream/macan_sport_1/playlist.m3u8?token=TBdOq
+https://delivery.macan.live/stream/macan_sport_1/playlist.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/beIN-2.jpg" group-title="SPORTS",beIN Sports 2
-https://delivery.macan.live/stream/macan_sport_2/playlist.m3u8?token=TBdOq
+https://delivery.macan.live/stream/macan_sport_2/playlist.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/Minipack/indisport2/images/IndiSport2-20rb_03.jpg" group-title="SPORTS",Usee Sports 1
-https://delivery.macan.live/stream/macan_sport_3/playlist.m3u8?token=TBdOq
+https://delivery.macan.live/stream/macan_sport_3/playlist.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/Minipack/indisport2/images/IndiSport2-20rb_03.jpg" group-title="SPORTS",Usee Sports 2
-https://delivery.macan.live/stream/macan_sport_4/playlist.m3u8?token=TBdOq
+https://delivery.macan.live/stream/macan_sport_4/playlist.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/76/75/O1Qz65Rs_t.png" group-title="SPORTS",Champions TV 1
-https://delivery.macan.live/stream/macan_sport_5/playlist.m3u8?token=TBdOq
+https://delivery.macan.live/stream/macan_sport_5/playlist.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/76/75/O1Qz65Rs_t.png" group-title="SPORTS",Champions TV 2
-https://delivery.macan.live/stream/macan_sport_6/playlist.m3u8?token=TBdOq
+https://delivery.macan.live/stream/macan_sport_6/playlist.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/FOXsport150x150.jpg" group-title="SPORTS",Fox Sports
-https://delivery.macan.live/stream/id_foxsport1/playlist.m3u8?token=TBdOq
+https://delivery.macan.live/stream/id_foxsport1/playlist.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/FoxSport2_150x150.jpg" group-title="SPORTS",Fox Sports 2
-https://delivery.macan.live/stream/id_foxsport2/playlist.m3u8?token=TBdOq
+https://delivery.macan.live/stream/id_foxsport2/playlist.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/Untitled-1.png" group-title="SPORTS",Fox Sports 3
-https://delivery.macan.live/stream/id_foxsport3/playlist.m3u8?token=TBdOq
+https://delivery.macan.live/stream/id_foxsport3/playlist.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="SPORTS",Astro Supersport 1
-https://delivery.macan.live/stream/macan_sport_10/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/macan_sport_10/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="SPORTS",Astro Supersport 2
-https://delivery.macan.live/stream/macan_sport_11/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/macan_sport_11/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="SPORTS",Astro Supersport 3
-https://delivery.macan.live/stream/macan_sport_12/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/macan_sport_12/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="SPORTS",Astro Supersport 4
-https://delivery.macan.live/stream/macan_sport_13/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/macan_sport_13/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport_1_za.png" group-title="SPORTS",AF Supersport 1
-https://delivery.macan.live/stream/macan_sport_24/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/macan_sport_24/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport_2_za.png" group-title="SPORTS",AF Supersport 2
-https://delivery.macan.live/stream/macan_sport_25/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/macan_sport_25/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport_3_africa.png" group-title="SPORTS",AF Supersport 3
-https://delivery.macan.live/stream/macan_sport_26/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/macan_sport_26/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport_4_za.png" group-title="SPORTS",AF Supersport 4
-https://delivery.macan.live/stream/macan_sport_27/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/macan_sport_27/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport_5_africa.png" group-title="SPORTS",AF Supersport 5
-https://delivery.macan.live/stream/macan_sport_28/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/macan_sport_28/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport_6_africa.png" group-title="SPORTS",AF Supersport 6
-https://delivery.macan.live/stream/macan_sport_29/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/macan_sport_29/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport_7_africa.png" group-title="SPORTS",AF Supersport 7
-https://delivery.macan.live/stream/macan_sport_30/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/macan_sport_30/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport_8_za.png" group-title="SPORTS",AF Supersport 8
-https://delivery.macan.live/stream/macan_sport_31/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/macan_sport_31/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport_9_za.png" group-title="SPORTS",AF Supersport 9
-https://delivery.macan.live/stream/macan_sport_32/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/macan_sport_32/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-10-za.png" group-title="SPORTS",AF Supersport 10
-https://delivery.macan.live/stream/macan_sport_33/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/macan_sport_33/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport_11_africa.png" group-title="SPORTS",AF Supersport 11
-https://delivery.macan.live/stream/macan_sport_34/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/macan_sport_34/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport_12_africa.png" group-title="SPORTS",AF Supersport 12
-https://delivery.macan.live/stream/macan_sport_35/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/macan_sport_35/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/edge_sport_uk.png" group-title="SPORTS",Edge Sports
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
@@ -1072,7 +1072,7 @@ https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 https://cdn-laos.workpoint.news/sd-mtvasia_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv_live_hd_us.png" group-title="MUSIC",MTV Live
-https://delivery.macan.live/stream/mtv_live/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/mtv_live/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv_hits_us_global.png" group-title="MUSIC",MTV Hits
 http://live02-cdn.tv.ti.ru:80/dtv/id210_NBN_SG--MTVHits/03/plst.m3u8
@@ -1084,7 +1084,7 @@ http://live02-cdn.tv.ti.ru:80/dtv/id211_NBN_SG--MTVDance/03/plst.m3u8
 http://live02-cdn.tv.ti.ru:80/dtv/id212_NBN_SG--MTVRocks/03/plst.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_v_international.png" group-title="MUSIC",Channel [V]
-https://delivery.macan.live/stream/id_channelv/index.m3u8?token=TBdOq
+https://delivery.macan.live/stream/id_channelv/index.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/box_hits_uk.png" group-title="MUSIC",BOX hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
@@ -1114,7 +1114,7 @@ https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
 https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/loket-production-sg/images/organization/20200204130117_5e3908ad90153.jpg" group-title="MUSIC",i konser
-https://delivery.macan.live/stream/e_konser/playlist.m3u8?token=TBdOq
+https://delivery.macan.live/stream/e_konser/playlist.m3u8?token=nOCZ7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/karaoke_channel_id.png" group-title="MUSIC",Karaoke Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
